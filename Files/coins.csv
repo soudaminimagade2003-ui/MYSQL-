@@ -1,0 +1,11 @@
+coin_id,coin_name,symbol,launch_year
+1,Bitcoin,BTC,2009
+2,Ethereum,ETH,2015
+3,Ripple,XRP,2012
+4,Litecoin,LTC,2011
+5,Cardano,ADA,2017
+6,Polkadot,DOT,2020
+7,Chainlink,LINK,2017
+8,Dogecoin,DOGE,2013
+9,Stellar,XLM,2014
+10,Solana,SOL,2020

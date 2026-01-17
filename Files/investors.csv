@@ -1,0 +1,201 @@
+investor_id,investor_name,country,invested_date,invested_amount,coin_id
+1,Alice Johnson,USA,10-01-2023,50000,1
+2,Bob Smith,UK,15-02-2023,30000,2
+3,Charlie Lee,Canada,20-03-2023,20000,3
+4,David Kim,South Korea,05-04-2023,40000,4
+5,Eva Chen,China,12-05-2023,35000,5
+6,Frank Miller,Germany,18-06-2023,25000,6
+7,Grace Park,Australia,22-07-2023,45000,7
+8,Hassan Ali,UAE,30-08-2023,30000,8
+9,Isabel Lopez,Spain,10-09-2023,15000,9
+10,Jack Wilson,USA,01-10-2023,60000,10
+11,Noah Smith,Australia,02-09-2023,16119,8
+12,Ethan Johnson,Australia,22-01-2023,49875,9
+13,Eva Ali,UAE,03-08-2023,56689,1
+14,Jack Johnson,Germany,23-10-2023,56988,8
+15,Mason Johnson,UK,30-08-2023,52445,10
+16,Alice Lopez,Spain,29-06-2023,24915,1
+17,Amelia Kim,France,20-04-2023,12249,9
+18,Emma Ali,France,19-01-2023,18110,3
+19,Charlie Kim,Canada,07-08-2023,44795,6
+20,Lucas Smith,USA,07-03-2023,16209,5
+21,Liam Johnson,USA,10-01-2023,30175,3
+22,Charlie Ali,Spain,15-02-2023,23611,10
+23,Jack Lee,South Korea,10-10-2023,43131,1
+24,Hassan Chen,UAE,26-03-2023,11374,2
+25,Isabel Smith,India,28-06-2023,50393,10
+26,Grace Wilson,USA,25-01-2023,58768,5
+27,Frank Lee,USA,07-01-2023,21452,9
+28,Bob Smith,USA,03-05-2023,19177,8
+29,Grace Lopez,UAE,15-01-2023,27500,3
+30,Isabel Miller,Germany,25-10-2023,35525,9
+31,Hassan Lopez,UAE,16-07-2023,57384,9
+32,Isabel Chen,USA,22-03-2023,44728,6
+33,Lucas Lopez,South Korea,09-05-2023,37728,4
+34,Liam Kim,India,06-09-2023,30051,3
+35,Isabel Kim,UK,20-09-2023,11224,3
+36,Isabel Miller,UAE,17-06-2023,27479,2
+37,Hassan Miller,USA,09-09-2023,48855,2
+38,Isabel Lee,Germany,07-03-2023,43999,10
+39,Noah Johnson,Australia,09-03-2023,55294,6
+40,Hassan Lopez,UK,22-03-2023,18723,4
+41,Ethan Wilson,UK,20-01-2023,54703,8
+42,Mia Chen,UK,09-05-2023,57564,7
+43,Isabel Lee,Australia,17-07-2023,24951,8
+44,Eva Miller,China,22-05-2023,11950,3
+45,Liam Lopez,South Korea,11-02-2023,48826,6
+46,Bob Wilson,USA,11-05-2023,48234,4
+47,Charlie Smith,Germany,02-06-2023,55173,4
+48,Liam Miller,India,24-01-2023,46270,9
+49,Lucas Wilson,USA,09-03-2023,56288,9
+50,Charlie Kim,UK,25-07-2023,20593,9
+51,Hassan Lopez,Spain,01-09-2023,23162,6
+52,Mason Chen,France,11-06-2023,11219,1
+53,Grace Park,India,06-02-2023,15365,6
+54,Sophia Chen,UK,02-10-2023,27447,6
+55,Amelia Wilson,Spain,18-09-2023,23368,6
+56,Mia Lee,Canada,03-07-2023,48643,6
+57,Liam Johnson,USA,26-07-2023,50555,10
+58,Emma Miller,Canada,18-03-2023,57250,10
+59,Sophia Park,Spain,21-09-2023,19463,8
+60,Jack Ali,France,06-03-2023,20001,4
+61,Bob Wilson,USA,08-05-2023,12286,3
+62,Jack Johnson,India,23-03-2023,11386,3
+63,Amelia Kim,UK,06-04-2023,40643,9
+64,Frank Ali,Australia,02-03-2023,57721,2
+65,Mia Wilson,Australia,24-10-2023,24521,3
+66,Olivia Smith,Canada,10-03-2023,43375,1
+67,Hassan Johnson,India,30-06-2023,26312,6
+68,Charlie Smith,Germany,15-02-2023,53411,1
+69,Emma Ali,France,30-01-2023,54869,10
+70,Eva Johnson,UK,15-10-2023,21101,7
+71,Mia Wilson,France,10-07-2023,31331,1
+72,Isabel Lee,Canada,09-08-2023,51679,7
+73,Amelia Johnson,Australia,14-07-2023,57179,6
+74,Lucas Lopez,UK,31-07-2023,31576,8
+75,Noah Smith,Australia,27-04-2023,28329,6
+76,Bob Johnson,Canada,13-10-2023,13233,4
+77,Mia Park,China,15-10-2023,58539,4
+78,Amelia Chen,USA,22-06-2023,44363,5
+79,Emma Ali,Spain,30-03-2023,17984,3
+80,Isabel Smith,India,18-04-2023,19303,9
+81,Grace Miller,Australia,27-08-2023,53322,1
+82,Emma Ali,Germany,09-07-2023,39769,10
+83,Charlie Wilson,China,13-09-2023,58264,7
+84,Lucas Kim,UK,20-10-2023,27793,8
+85,Amelia Chen,India,01-04-2023,57110,7
+86,Isabel Wilson,UK,05-08-2023,10668,2
+87,Amelia Ali,France,19-05-2023,38261,1
+88,Mason Chen,India,23-10-2023,49309,3
+89,Liam Lopez,Germany,10-08-2023,23633,7
+90,Lucas Lee,UK,11-10-2023,43461,2
+91,Olivia Kim,India,16-08-2023,39898,6
+92,Frank Kim,Spain,20-04-2023,15880,3
+93,Jack Chen,UAE,01-04-2023,27550,3
+94,Frank Chen,UAE,25-06-2023,14582,5
+95,Jack Lopez,South Korea,03-02-2023,57360,8
+96,Hassan Kim,Australia,19-04-2023,47974,4
+97,Eva Miller,Spain,30-06-2023,57243,8
+98,Grace Johnson,UK,02-01-2023,41923,2
+99,Frank Ali,India,12-04-2023,56215,6
+100,Frank Miller,USA,03-06-2023,31772,1
+101,Liam Lopez,South Korea,30-06-2023,30381,5
+102,Noah Park,South Korea,14-03-2023,28355,6
+103,Jack Miller,UAE,17-08-2023,24916,9
+104,Emma Smith,Germany,06-02-2023,51262,5
+105,Olivia Johnson,UAE,24-10-2023,20398,4
+106,Mason Smith,UAE,15-04-2023,30426,6
+107,Ethan Wilson,China,26-10-2023,55260,8
+108,Alice Ali,USA,25-09-2023,28640,9
+109,Mia Lee,India,04-03-2023,45161,10
+110,Charlie Kim,India,25-08-2023,19609,8
+111,Amelia Chen,China,26-01-2023,26356,1
+112,Noah Lee,USA,21-07-2023,44837,2
+113,Liam Chen,China,27-01-2023,28474,7
+114,Mia Kim,Spain,15-06-2023,53861,6
+115,Grace Miller,South Korea,30-05-2023,49774,6
+116,Alice Chen,France,19-10-2023,21417,1
+117,Sophia Kim,UK,17-01-2023,17532,1
+118,Bob Kim,USA,21-03-2023,20549,1
+119,Hassan Lopez,South Korea,08-01-2023,55335,1
+120,Amelia Kim,Canada,27-01-2023,41525,3
+121,Lucas Lee,Spain,20-04-2023,38707,7
+122,Frank Chen,USA,07-05-2023,34482,5
+123,Eva Wilson,UK,20-07-2023,49208,6
+124,Sophia Chen,Germany,26-10-2023,29066,1
+125,Alice Wilson,South Korea,01-09-2023,20159,4
+126,Mason Ali,Spain,04-04-2023,18402,9
+127,Alice Lee,Spain,14-01-2023,45718,9
+128,Charlie Smith,Germany,04-01-2023,23704,6
+129,Emma Ali,Spain,06-03-2023,48722,8
+130,Sophia Park,Spain,01-01-2023,50109,6
+131,Charlie Johnson,UAE,06-02-2023,32298,4
+132,Hassan Kim,UK,11-05-2023,29480,5
+133,Charlie Kim,Australia,15-04-2023,20430,3
+134,Ethan Wilson,Canada,13-09-2023,21019,8
+135,Mia Wilson,France,13-05-2023,54351,6
+136,Charlie Lopez,Canada,05-07-2023,36530,1
+137,Grace Smith,UK,06-05-2023,16743,8
+138,Grace Ali,India,14-02-2023,41536,5
+139,Hassan Wilson,India,24-10-2023,27383,6
+140,Jack Miller,India,16-02-2023,47998,7
+141,Bob Ali,UK,16-05-2023,12481,7
+142,Eva Lee,Germany,02-08-2023,57353,2
+143,Bob Kim,USA,21-08-2023,47888,10
+144,Frank Kim,South Korea,23-01-2023,36356,9
+145,Frank Lopez,South Korea,12-01-2023,32987,10
+146,Jack Johnson,Spain,25-04-2023,40121,9
+147,Mason Kim,Germany,09-03-2023,58056,6
+148,Mia Johnson,USA,02-02-2023,20837,6
+149,Noah Lopez,Australia,25-04-2023,44471,7
+150,Bob Miller,South Korea,09-06-2023,58928,6
+151,Olivia Lopez,Spain,08-01-2023,39386,9
+152,Olivia Miller,India,20-09-2023,29158,5
+153,Mason Johnson,UK,28-10-2023,20938,2
+154,Lucas Ali,Canada,25-06-2023,36541,4
+155,Eva Park,France,18-06-2023,10066,6
+156,David Smith,USA,26-09-2023,25218,8
+157,Alice Miller,France,06-09-2023,11911,10
+158,Eva Lopez,Spain,26-09-2023,34177,3
+159,Grace Lee,Spain,04-08-2023,38055,8
+160,Olivia Smith,USA,25-10-2023,37537,1
+161,Eva Smith,USA,25-09-2023,48576,3
+162,Jack Park,Australia,10-06-2023,15204,5
+163,Amelia Miller,France,18-01-2023,40536,2
+164,Amelia Kim,Germany,22-06-2023,23321,1
+165,Ethan Smith,UAE,14-09-2023,44726,3
+166,Hassan Miller,UAE,11-06-2023,18202,4
+167,Liam Johnson,South Korea,23-10-2023,47290,7
+168,Charlie Lee,Canada,28-06-2023,55034,2
+169,Noah Smith,South Korea,19-08-2023,46582,9
+170,Isabel Kim,UK,25-06-2023,17520,3
+171,Liam Park,Australia,22-06-2023,19836,10
+172,Sophia Chen,USA,17-09-2023,21758,1
+173,Mia Lee,Spain,08-04-2023,31456,2
+174,Charlie Lee,France,07-04-2023,14194,4
+175,David Chen,Australia,18-08-2023,17598,10
+176,Eva Wilson,UK,17-09-2023,17993,5
+177,Noah Miller,Spain,31-07-2023,51490,6
+178,Hassan Lopez,Spain,02-06-2023,53710,1
+179,Frank Chen,China,25-03-2023,44282,4
+180,Amelia Johnson,UK,23-01-2023,30506,9
+181,Isabel Lee,Australia,14-08-2023,28912,3
+182,Mia Johnson,UK,12-01-2023,58525,1
+183,Frank Johnson,South Korea,20-10-2023,29268,9
+184,David Kim,Germany,21-01-2023,10413,1
+185,Eva Lee,USA,27-10-2023,45478,7
+186,Ethan Lee,Canada,07-04-2023,39047,4
+187,Eva Park,Canada,25-10-2023,34326,9
+188,David Smith,South Korea,08-06-2023,28567,10
+189,Sophia Chen,USA,27-04-2023,53407,7
+190,Mason Miller,Canada,25-08-2023,36430,9
+191,Bob Chen,South Korea,05-03-2023,43318,7
+192,Isabel Kim,Canada,08-02-2023,19617,5
+193,Noah Chen,Spain,01-04-2023,16486,7
+194,Liam Miller,Australia,22-02-2023,31719,3
+195,David Kim,Canada,08-09-2023,26530,1
+196,Frank Johnson,France,28-04-2023,20731,8
+197,Jack Lopez,Canada,09-01-2023,27797,2
+198,Mia Johnson,China,29-07-2023,54649,1
+199,Olivia Kim,Canada,09-06-2023,33559,8
+200,Eva Park,China,27-05-2023,44621,2
